@@ -1,6 +1,11 @@
 # Express js && bcrypt --- UserAuth
 
 
+also , POSTMAN like extension is used to check the working of the program 
+
+![image](https://user-images.githubusercontent.com/88205668/183446630-52f1128d-5bbb-451b-820e-6a1c02c7b1fc.png)
+
+
 ### 
 
 SUCCESS
